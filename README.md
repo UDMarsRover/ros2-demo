@@ -31,8 +31,16 @@ To ensure future commits you make can be tracked, run the following commands in 
 git config --global user.name "Firstname Lastname"
 git config --global user.email "Email"
 ```
+## Step 3 - Install Visual Studio Code
+In Firefox in your Ubuntu VM, search for "download VS code"
 
-## Step 3 - Clone this getting started repo
+Download the .deb file. If you are on an Arm processor, be sure to specify the correct architecture when you download.
+
+Go to Files in Ubuntu, then to Downloads, then right click the deb file, select Open With Other Application > Software Install. Then, you can press install to begin installing VS Code on your device. 
+
+Alternatively, if you know how to do so, you can use SSH to edit code in your VM.
+
+## Step 4 - Clone this getting started repo
 When we work with the actual UDMRT, I will allow your user to access the repo, and you can clone it via SSH, which allows you to make modifications. however, for this demo, you don't need to push to the repository, so we will clone with HTTPS. 
 
 In your Ubuntu 22.04 VM, run the command, 
