@@ -1,5 +1,5 @@
 # ROS2 Demo
-This repo will act as a getting started for UDMRT Computeer Team in Fall 2024.
+This repo will act as a getting started for UDMRT Computer Team in Fall 2024.
 
 ## Step 1 - Install an Ubuntu 22.04 VM on your laptop
 I recommend VMWare Workstation Pro 17 for Windows, VMWare Fusion for Mac, or KVM for Linux. You will have to do your own research to figure out how to install an Ubuntu 22.04 Desktop VM with your selected VM software. 
