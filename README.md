@@ -32,5 +32,6 @@ In your Ubuntu 22.04 VM, run the command,
 git clone https://github.com/UDMarsRover/ros2-demo.git
 ```
 You will now have the files for this repository on your local machine. 
+If the command fails because git is not installed, run `sudo apt-get install git`, and try again.
 
 
