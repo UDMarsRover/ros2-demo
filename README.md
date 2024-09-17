@@ -50,4 +50,9 @@ git clone https://github.com/UDMarsRover/ros2-demo.git
 You will now have the files for this repository on your local machine. 
 If the command fails because git is not installed, run `sudo apt-get install git`, and try again.
 
+## Step 4 - Installing ROS 2 Humble
+This repository contains an install script that can be run within your Ubuntu terminal. Navigate to this repository (`cd ros2-demo`), then run the command: 
+```bash
+bash ros2-setup.sh
+```
 
